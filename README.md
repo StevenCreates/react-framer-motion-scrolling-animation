@@ -1,4 +1,4 @@
-# Framer Motion Scrolling Animation
+# COMING SOON! Framer Motion Scrolling Animation
 
 ## Simple to get started
 - Follow Me

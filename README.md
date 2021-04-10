@@ -1,4 +1,4 @@
-# COMING SOON! Framer Motion Scrolling Animation
+Framer Motion Scrolling Animation
 
 ## Simple to get started
 - Follow Me
@@ -10,7 +10,7 @@
 ### Resources
 
 - Article/Guide
-- Coming Soon!
+- https://javascript.plainenglish.io/how-to-create-a-scroll-progress-animation-with-framer-motion-and-react-b98754cd8638
 
 
 
